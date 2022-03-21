@@ -87,6 +87,7 @@ body {
 
 .input-group {
     display: flex;
+    /* Quebrar e ficar lado a lado */
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 1rem 0;
